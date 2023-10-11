@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 
-const ResumePage = () => {
+const Resume = () => {
     return (
         <Container className="mt5">
             <Row>
@@ -22,4 +22,4 @@ const ResumePage = () => {
     );
 }
 
-export default ResumePage;
+export default Resume;
