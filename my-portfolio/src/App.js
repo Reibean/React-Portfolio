@@ -14,7 +14,6 @@ function App() {
         <Header />
         <div className="content">
           <Routes>
-            <Route path="/aboutme" element={<AboutMe />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/resume" element={<Resume />} />
