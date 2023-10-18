@@ -6,21 +6,21 @@ const Portfolio = () => {
         {
             title: "Weather App",
             description: "My first project implemimenting a 3rd party API to handle gathering and posting data to display a 5 day weather forecast for a given city.",
-            imageUrl: "",
+            imageUrl: "/Notes.png",
             liveUrl: "https://reibean.github.io/WeatherApp/",
             githubUrl: "https://github.com/Reibean/WeatherApp"
         },
         {
             title: "Timed Quiz",
             description: "One of my very first projects. Learned how to work javascript to have a timer and modify that timer when an incorrect answer is applied.",
-            imageUrl: "",
+            imageUrl: "/Quiz.png",
             liveUrl: "https://reibean.github.io/Timed-Quiz/",
             githubUrl: "https://github.com/Reibean/Timed-Quiz"
         },
         {
             title: "Planner",
             description: "The Planner app is a multifunctional application that allows the user to slot in specific 'To-Do's' so that they can keep track of the tasks they need to complete for that given day.",
-            imageUrl: "",
+            imageUrl: "/Weather App.png",
             liveUrl: "https://reibean.github.io/Planner/",
             githubUrl: "https://github.com/Reibean/Planner"
         },
